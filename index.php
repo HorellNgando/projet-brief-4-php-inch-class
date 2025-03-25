@@ -37,6 +37,11 @@ if (isLoggedIn()) {
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
 <body class="bg-light">
+    <div class="col-md-6 p-3">
+        <a href="home.php">
+            <img src="assets/image/icons8-home-30.png" alt="icon" id="Home_icone">
+        </a>
+    </div>
     <div class="container">
         <div class="row justify-content-center mt-5">
             <div class="col-md-6 col-lg-4">
