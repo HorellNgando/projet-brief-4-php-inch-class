@@ -1,0 +1,20 @@
+/* Ajouter ces styles pour améliorer l'interface de recherche */
+.card.search-card {
+    margin-bottom: 20px;
+    border: 1px solid #dee2e6;
+}
+
+.search-card .card-body {
+    padding: 1.25rem;
+}
+
+.search-card .form-control, 
+.search-card .form-select {
+    height: calc(1.5em + 1rem + 2px);
+    padding: 0.5rem 1rem;
+}
+
+.search-results-info {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
